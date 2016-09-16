@@ -18,7 +18,7 @@ source: Personal Archives
 <p class="smaller">MURRIETA, CALIFORNIA</p>
 
 <p class="smaller">SEE AMERICA FIRST</p>
----
+
 
 ## Diplomatic Transcription
 <p class="body"> MY DEAR J IN BOBY[^1] HOW ARE YOU BOUT I AM FINE AND AVENG 
@@ -65,7 +65,7 @@ DAY TO MAKE UP FOR THAT TIME WHAT
 
 <p class="small">I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </p>
 <br>
----
+
 ## Normalized Transcription
 My dear Jay and Bobby, how are you both? I am fine and having
 
