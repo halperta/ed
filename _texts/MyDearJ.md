@@ -2,6 +2,7 @@
 layout: narrative
 title: Letter to J and Boby
 author: Grandma Lena
+publication-date: 2016-09-17
 source: Personal Archives
 ---
 # Letter from Grandma Lena
