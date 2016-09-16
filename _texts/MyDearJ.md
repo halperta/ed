@@ -32,5 +32,5 @@ SEE AMERICA FIRST
 [^2] Both
 [^3] having a very
 [^4] Devine
-[^5] good for your nerves. Lena emigratted from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
+[^5] good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
 ![Photocopy of original letter](/MyDearJ-1.pdf "Photocopy of original letter.")
