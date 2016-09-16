@@ -111,7 +111,9 @@ I didn't eat soup, so you tell Raye to have a lot, the soup
 
 ## Footnotes
 [^1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
+
 [^2] good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
+
 [^3] Bonny was a dog.
 
 ---
