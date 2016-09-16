@@ -1,11 +1,9 @@
 ---
 layout: narrative
-title: Letter to J and Boby
+title: Letter to J and Boby from Grandma Lena
 author: Grandma Lena
 publication-date: 2016-09-17
 source: Personal Archives
----
-# Letter from Grandma Lena
 ---
 #### Letterhead
 
