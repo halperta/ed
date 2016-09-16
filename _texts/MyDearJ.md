@@ -115,7 +115,7 @@ I didn't eat soup, so you tell Raye to have a lot, the soup
 
 [^fn2]: good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
 
-[^fn3]: Bonny was a dog.
+[^fn3: Bonny was a dog.
 ---
 # Facsimile Copy
 ![Photocopy of original letter](MyDearJ-1.pdf "Photocopy of original letter.")
