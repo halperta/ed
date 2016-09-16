@@ -7,7 +7,7 @@ source: Personal Archives
 ---
 # Letter from Grandma Lena
 ---
-<a id="Letterhead" />
+## Letterhead
 
 <p class="smaller">These springs will benefit all kinds of rheumatism. Unsurpassed for stomach trouble and general debility.</p>
 <br>
