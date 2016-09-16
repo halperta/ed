@@ -21,7 +21,7 @@ source: Personal Archives
 
 
 ## Diplomatic Transcription
-<p class="body"> MY DEAR J IN BOBY[^1] HOW ARE YOU BOUT I AM FINE AND AVENG 
+MY DEAR J IN BOBY[^1] HOW ARE YOU BOUT I AM FINE AND AVENG 
 
 A WARY NICE TIME IN THIS WETHIR IS DE WHYN ITS 
 
