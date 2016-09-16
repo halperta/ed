@@ -21,7 +21,7 @@ source: Personal Archives
 
 
 ## Diplomatic Transcription
-MY DEAR J IN BOBY[^1] HOW ARE YOU BOUT I AM FINE AND AVENG 
+<P class="body">MY DEAR J IN BOBY[^1] HOW ARE YOU BOUT I AM FINE AND AVENG 
 
 A WARY NICE TIME IN THIS WETHIR IS DE WHYN ITS 
 
@@ -63,11 +63,12 @@ COME HOME ILL AF,TA MAKE SOOP AVER
 
 DAY TO MAKE UP FOR THAT TIME WHAT 
 
-<p class="small">I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </p>
+<sub>I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </sub>
+</p>
 <br>
 
 ## Normalized Transcription
-My dear Jay and Bobby, how are you both? I am fine and having
+<p class="body">My dear Jay and Bobby, how are you both? I am fine and having
 
 a very nice time and the weather is divine it's
 
@@ -107,15 +108,16 @@ come home I'll have to make soup every
 
 day to make up for that time when
 
-I didn't eat soup, so you tell Raye to have a lot, the soup
+I didn't eat soup, so you tell Raye to have a lot, the soup </p>
 ---
 ## Footnotes
-[^1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
+
+<p class="body">[^1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
 
 [^2] good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
 
 [^3] Bonny was a dog.
-
+</p>
 ---
 # Facsimile Copy
 ![Photocopy of original letter](/MyDearJ-1.pdf "Photocopy of original letter.")
