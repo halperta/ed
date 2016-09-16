@@ -687,6 +687,10 @@ p.small {
   font-size: 0.8rem;
 }
 
+p.smaller {
+  font-size: 0.6rem;
+}
+
 div.poem, div.narrative {
   margin-bottom: 5rem;
 }
