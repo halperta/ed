@@ -64,8 +64,9 @@ COME HOME ILL AF,TA MAKE SOOP AVER
 
 DAY TO MAKE UP FOR THAT TIME WHAT 
 
-<sub>I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </sub>
+<p class="small">I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </p>
 
+---
 ## Normalized Transcription
 My dear Jay and Bobby, how are you both? I am fine and having
 
@@ -108,7 +109,7 @@ come home I'll have to make soup every
 day to make up for that time when
 
 I didn't eat soup, so you tell Raye to have a lot, the soup
-
+---
 ## Footnotes
 [^1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
 
