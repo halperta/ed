@@ -20,6 +20,7 @@ source: Personal Archives
 
 <p class="smaller">MURRIETA, CALIFORNIA</p>
 
+<p class="smaller">SEE AMERICA FIRST</p>
 ---
 
 ## Diplomatic Transcription
@@ -66,9 +67,6 @@ COME HOME ILL AF,TA MAKE SOOP AVER
 DAY TO MAKE UP FOR THAT TIME WHAT 
 
 <sub>I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </sub>
-
-#### Letterhead
-<sub>SEE AMERICA FIRST</sub>
 
 ## Normalized Transcription
 My dear Jay and Bobby, how are you both? I am fine and having
