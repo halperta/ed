@@ -5,7 +5,7 @@ author: Grandma Lena
 publication-date: 2016-09-17
 source: Personal Archives
 ---
-#### Letterhead
+## Letterhead
 
 <p class="smaller">These springs will benefit all kinds of rheumatism. Unsurpassed for stomach trouble and general debility.</p>
 
@@ -21,7 +21,7 @@ source: Personal Archives
 
 
 ## Diplomatic Transcription
-<P class="body">MY DEAR J IN BOBY[^fn1] HOW ARE YOU BOUT I AM FINE AND AVENG 
+MY DEAR J IN BOBY[^fn1] HOW ARE YOU BOUT I AM FINE AND AVENG 
 
 A WARY NICE TIME IN THIS WETHIR IS DE WHYN ITS 
 
@@ -64,11 +64,10 @@ COME HOME ILL AF,TA MAKE SOOP AVER
 DAY TO MAKE UP FOR THAT TIME WHAT 
 
 <sub>I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </sub>
-</p>
 <br>
 
 ## Normalized Transcription
-<p class="body">My dear Jay and Bobby, how are you both? I am fine and having
+My dear Jay and Bobby, how are you both? I am fine and having
 
 a very nice time and the weather is divine it's
 
@@ -108,16 +107,15 @@ come home I'll have to make soup every
 
 day to make up for that time when
 
-I didn't eat soup, so you tell Raye to have a lot, the soup </p>
+I didn't eat soup, so you tell Raye to have a lot, the soup 
 ---
 ## Footnotes
 
-<p class="body">[^fn1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
+[^fn1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
 
 [^fn2]: good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
 
 [^fn3]: Bonny was a dog.
-</p>
 ---
 # Facsimile Copy
 ![Photocopy of original letter](MyDearJ-1.pdf "Photocopy of original letter.")
