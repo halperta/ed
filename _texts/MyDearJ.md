@@ -8,11 +8,10 @@ source: Personal Archives
 #### Letterhead
 
 <p class="smaller">These springs will benefit all kinds of rheumatism. Unsurpassed for stomach trouble and general debility.</p>
-<br>
+
 <p class="centered">GUENTHER'S: Murrieta Mineral Hot Springs</p>
 
 <p class="smaller">CALIFORNIA'S GREATEST HEALTH RESORT</p>
-<br>
 
 <p class="smaller">HUGO \& R. GUNTHER, MANAGERS</p>
 
@@ -65,7 +64,7 @@ COME HOME ILL AF,TA MAKE SOOP AVER
 DAY TO MAKE UP FOR THAT TIME WHAT 
 
 <p class="small">I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </p>
-
+<br>
 ---
 ## Normalized Transcription
 My dear Jay and Bobby, how are you both? I am fine and having
