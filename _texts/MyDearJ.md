@@ -120,5 +120,5 @@ I didn't eat soup, so you tell Raye to have a lot, the soup </p>
 </p>
 ---
 # Facsimile Copy
-![Photocopy of original letter](/MyDearJ-1.pdf "Photocopy of original letter.")
+![Photocopy of original letter](MyDearJ-1.pdf "Photocopy of original letter.")
 ---
