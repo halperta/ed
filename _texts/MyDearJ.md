@@ -22,19 +22,101 @@ source: Personal Archives
 
 ---
 
-## Letter
-<p class="body"> MY DEAR J IN BOBY[^1] HOW ARE YOU BOUT[^2] I AM FINE AND AVENG A WARY[^3] NICE TIME IN THIS WETHIR IS DE WHYN[^4] ITS BEAUTAFUL INI LOVIT I WISH YOU COOT STAY HERE FOR A LITIL WHYL ITS SO RELECSING ITS SO GOOT FOR YOUR NUVES[^5] I THEL YOU I LOVIT WARY MUCH I WOULT LOVE TO STAY HERE A ALL YEAR I WOULT NAVER GAT TIRET OVIT JAY DEAR THELL RAYE THAT I MIST BONNY[^6] I HET LAMPCHOUPS IN I DIDNT NOW WHAT TO DO WITH THI BOUNS I WONT TO SETIM TO BANNY BUT THI LENDLADEY HES TO PIKINEAS SO I GAVE DIM TO HER WELL BANNY WILL HEFTA WAYT ON THILL I COME HOME IN THEN WEALL HEVE A GOOT TIME AGAN HOW IS RAYE<sup>in</sup> EDDY HOW DUSE SHE FEALL IN RAYE HES SHE GOT SOOP GREANS YOU THEL HER SHE BEDER HAVE SOOP GREANS WHEN I COME HOME BECAUSE I DONT MAKE SOUP IN HERE AN WHEN ILL COME HOME ILL AF,TA MAKE SOOP AVER DAY TO MAKE UP FOR THAT TIME WHAT <sub>I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </sub>
+## Diplomatic Transcription
+<p class="body"> MY DEAR J IN BOBY[^1] HOW ARE YOU BOUT I AM FINE AND AVENG 
+
+A WARY NICE TIME IN THIS WETHIR IS DE WHYN ITS 
+
+BEAUTAFUL INI LOVIT I WISH YOU COOT STAY HERE 
+
+FOR A LITIL WHYL ITS SO RELECSING ITS SO 
+
+GOOT FOR YOUR NUVES[^2] I THEL YOU I LOVIT 
+
+WARY MUCH I WOULT LOVE TO STAY HERE A 
+
+ALL YEAR I WOULT NAVER GAT TIRET OVIT 
+
+JAY DEAR THELL RAYE THAT I MIST BONNY[^3] 
+
+I HET LAMPCHOUPS IN I DIDNT NOW WHAT 
+
+TO DO WITH THI BOUNS I WONT TO SETIM 
+
+TO BANNY BUT THI LENDLADEY HES TO 
+
+PIKINEAS SO I GAVE DIM TO HER WELL 
+
+BANNY WILL HEFTA WAYT ON THILL I COME 
+
+HOME IN THEN WEALL HEVE A GOOT TIME 
+
+AGAN HOW IS RAYE<sup>in</sup> EDDY HOW DUSE SHE 
+
+FEALL IN RAYE HES SHE GOT SOOP GREANS 
+
+YOU THEL HER SHE BEDER HAVE SOOP 
+
+GREANS WHEN I COME HOME BECAUSE 
+
+I DONT MAKE SOUP IN HERE AN WHEN ILL 
+
+COME HOME ILL AF,TA MAKE SOOP AVER 
+
+DAY TO MAKE UP FOR THAT TIME WHAT 
+
+<sub>I DIDN'T HET SOOP SO YOU THELL RAYE TO AVE A LOT, THI SOOP </sub>
 
 #### Letterhead
-SEE AMERICA FIRST
+<sub>SEE AMERICA FIRST</sub>
+
+## Normalized Transcription
+My dear Jay and Bobby, how are you both? I am fine and having
+
+a very nice time and the weather is divine it's
+
+beautiful and I love it I wish you could stay here
+
+for a little while it's so relaxing it's so
+
+good for your nerves I tell you I love it
+
+very much I would never get tired of it.
+
+Jay dear tell Ray that I miss Bonney
+
+I ate lambchops and I didn't know what
+
+to do with the bones I want\[ed\] to send them
+
+to Bonny but the landlady he's too
+
+\[Pikineas?\] so I gave them to her, well,
+
+Bonny will have to wait until I come
+
+home and then we'll have a good time 
+
+again. How \[are\] Raye and Eddy how does she
+
+feel and Raye, has she got soup greens?
+
+You tell her she better have soup
+
+green when I come home because
+
+I don't make soup in here, and when I'll
+
+come home I'll have to make soup every
+
+day to make up for that time when
+
+I didn't eat soup, so you tell Raye to have a lot, the soup
 
 ## Footnotes
 [^1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
-[^2] Both
-[^3] having a very
-[^4] Devine
-[^5] good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
-[^6] Bonny was a dog.
+[^2] good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
+[^3] Bonny was a dog.
 
 ---
 # Facsimile Copy
