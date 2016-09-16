@@ -21,7 +21,7 @@ source: Personal Archives
 
 
 ## Diplomatic Transcription
-<P class="body">MY DEAR J IN BOBY[^1] HOW ARE YOU BOUT I AM FINE AND AVENG 
+<P class="body">MY DEAR J IN BOBY[^fn1] HOW ARE YOU BOUT I AM FINE AND AVENG 
 
 A WARY NICE TIME IN THIS WETHIR IS DE WHYN ITS 
 
@@ -29,13 +29,13 @@ BEAUTAFUL INI LOVIT I WISH YOU COOT STAY HERE
 
 FOR A LITIL WHYL ITS SO RELECSING ITS SO 
 
-GOOT FOR YOUR NUVES[^2] I THEL YOU I LOVIT 
+GOOT FOR YOUR NUVES[^fn2] I THEL YOU I LOVIT 
 
 WARY MUCH I WOULT LOVE TO STAY HERE A 
 
 ALL YEAR I WOULT NAVER GAT TIRET OVIT 
 
-JAY DEAR THELL RAYE THAT I MIST BONNY[^3] 
+JAY DEAR THELL RAYE THAT I MIST BONNY[^fn3] 
 
 I HET LAMPCHOUPS IN I DIDNT NOW WHAT 
 
@@ -112,11 +112,11 @@ I didn't eat soup, so you tell Raye to have a lot, the soup </p>
 ---
 ## Footnotes
 
-<p class="body">[^1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
+<p class="body">[^fn1]: Jay Rivken was Lena's daughter; Bob Rivken was her husband. They lived in California. 
 
-[^2] good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
+[^fn2]: good for your nerves. Lena emigrated from Russia in 1903, and her first language was Yiddish. Uncle Bob taught her to read and write English in the late 1930s.
 
-[^3] Bonny was a dog.
+[^fn3]: Bonny was a dog.
 </p>
 ---
 # Facsimile Copy
